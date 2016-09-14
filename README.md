@@ -1,5 +1,7 @@
 ## Minimal Express/FlyWeb Hello World example
 
+Feel free to use this as a template for your FlyWeb server!
+
 Flyweb: https://flyweb.github.io/
 
 The only files changed from a default express v4.13.1 generated project are:
